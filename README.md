@@ -6,7 +6,7 @@ Hi there! I'm Coral Reyes, an emerging software developer passionate about solvi
 
 - 🔭 I’m currently working on: An Accessible Healthcare Portal
 - 🌱 I’m learning: Java & R
-- 💡 Fun fact: I enjoy **[Coding, building PCs, Gaming etc.]** in my spare time.
+- 💡 Fun fact: I enjoy **Coding, building PCs, Gaming etc.** in my spare time.
 - 💼 Aspiration: Data analysis or front-end development in the tech/medical field.
 
 ## 🔧 Technologies & Tools
